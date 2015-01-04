@@ -1,4 +1,4 @@
-FlyOS
+FlightOS
 =====
 
 Operating System
