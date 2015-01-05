@@ -39,7 +39,7 @@ To build use the build.sh file:
 Run
 ---
 
-To run with quem use:
+To run with qemu use:
 ```
 qemu-system-i386 -kernel bin/kernel
 ```
