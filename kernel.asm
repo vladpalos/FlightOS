@@ -10,7 +10,7 @@ section .text
         dd - (0x1BADB002 + 0x00) ;checksum. m+f+c should be zero
 
 global start
-extern kmain	        ;kmain is defined in the c file
+extern kmain	   
 
 start:
   cli 			;block interrupts
