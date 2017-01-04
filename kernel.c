@@ -10,8 +10,7 @@ void clearScreen(char *vidptr) {
 	}	
 }
 
-void kmain(void)
-{
+void kmain(void) {
 	char *str = "Welcome ...                                                                     FlyOS (V.Palos)";
 	char *vidptr = (char*)0xb8000; 	
 	unsigned short int i = 0, j;
